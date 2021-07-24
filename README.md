@@ -1,1 +1,1 @@
-# multilabel-text-classification-BERT
+# multilabel-news-classification
